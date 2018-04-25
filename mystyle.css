@@ -1,0 +1,51 @@
+body  {
+	background-color: white;
+}
+
+h1 {
+    color: black;
+		font-family: sans-serif;
+		font-size: 20px;
+		font-size: calibri;
+    text-align: center;
+}
+
+p {
+    color: black;
+		text-align: center;
+		font-family: verdana;
+    font-size: 20px;
+}
+
+div.topbar {
+		height: 50px;
+		border: 1px solid black;
+}
+
+div.topmenu {
+		height: 50px;
+		border: 1px solid black;
+}
+
+div.sidemenu {
+	position: relative;
+		width: 200px;
+		height: 600px;
+		border: 1px solid black;
+		margin-top: 10px;
+}
+
+div.maintextbox {
+	position: absolute;
+		top: 112px;
+		left: 220px;
+		height: 600px;
+		border: 1px solid black;
+		margin-top: 10px;
+}
+
+div.footer {
+		height: 100px;
+		border: 1px solid black;
+		margin-top: 10px;
+}
